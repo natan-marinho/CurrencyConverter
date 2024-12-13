@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners -->
+  <rect width="800" height="200" fill="#7C3AED" rx="16"/>
+  
+  <!-- Main Title -->
+  <text x="50" y="80" font-family="Arial" font-weight="bold" font-size="48" fill="white">Currency Converter</text>
+  
+  <!-- Subtitle -->
+  <text x="50" y="120" font-family="Arial" font-size="24" fill="rgba(255,255,255,0.9)">Modern currency conversion application</text>
+  
+  <!-- React badge -->
+  <rect x="50" y="140" width="80" height="30" rx="15" fill="rgba(255,255,255,0.2)"/>
+  <text x="70" y="160" font-family="Arial" font-size="14" fill="white">React</text>
+  
+  <!-- Right side currency symbols -->
+  <circle cx="650" cy="100" r="45" fill="white"/>
+  <text x="635" y="115" font-family="Arial" font-size="35" fill="#7C3AED">$</text>
+  
+  <circle cx="700" cy="100" r="45" fill="#FFA500"/>
+  <text x="685" y="115" font-family="Arial" font-size="35" fill="white">€</text>
+</svg>
