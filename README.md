@@ -60,4 +60,4 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for more deta
 
 ---
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Natan O. Marinho.
