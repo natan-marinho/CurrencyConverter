@@ -1,63 +1,41 @@
-<div align="center">
-  <img src="banner.svg" alt="Project Banner" />
-</div>
 
 # Currency Converter
 
-Modern currency conversion application built with React. Convert between different currencies with real-time exchange rates.
+<div align="center">
+  <img src="banner.svg" alt="Currency Converter Banner" />
+</div>
 
-## 🚀 Quick Start
+Aplicação moderna para conversão de moedas em tempo real.
 
-### 1. Clone the repository
+## 🚀 Instalação
+
 ```bash
-git clone [your-repository-url]
-```
+# Clone o repositório
+git clone [url-do-repositorio]
 
-### 2. Install dependencies
-Using npm:
-```bash
+# Instale as dependências
 npm install
 ```
-Or using yarn:
-```bash
-yarn install
-```
 
-### 3. Run the application
-Using npm:
+## 💻 Execução
+
 ```bash
 npm run dev
 ```
-Or using yarn:
-```bash
-yarn dev
-```
 
-### 4. View the application
-Open your browser and navigate to:
-```
-http://localhost:3000
-```
+Acesse: `http://localhost:3000`
 
-## ✨ Features
+## ✨ Funcionalidades
+- Conversão global de moedas
+- Taxas de câmbio em tempo real
+- Suporte para múltiplas moedas
+- Interface intuitiva
+- Design responsivo
 
-- Global currency conversion
-- Real-time exchange rates
-- Support for multiple currencies
-- Intuitive and clean interface
-- Fast and accurate conversions
-- Mobile-responsive design
-
-## 🛠️ Technologies
-
+## 🛠️ Tecnologias
 - React
 - Vite
 - TailwindCSS
 
-## 📝 License
-
-This project is under MIT license. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Developed with ❤️ by Natan O. Marinho.
+## 📝 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
