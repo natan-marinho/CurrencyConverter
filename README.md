@@ -34,8 +34,8 @@ Acesse: `http://localhost:3000`
 
 ## 🛠️ Tecnologias
 - React
-- Vite
-- TailwindCSS
+- Next.js
+- Styled-Components
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
